@@ -1,6 +1,11 @@
 How to use:
-
-    Example: "123".to_bddigit
-    "abc89efg".to_bddigit
-    User.first.created_at.to_bddigit
-    89.567.to_bddigit
+    1. Installation: rails plugin install git@github.com:barek2k2/localize-multi-digit.git
+    2. Pre-requisite: i18n gem
+    3. Usages
+        Example:
+         - "123".to_ld
+         - "abc89efg".to_ld
+         - User.first.created_at.to_ld
+         - 89.567.to_ld
+         - Time.now.to_ld
+         - Date.today.to_ld

@@ -1,0 +1,6 @@
+How to use:
+
+    Example: "123".to_bddigit
+    "abc89efg".to_bddigit
+    User.first.created_at.to_bddigit
+    89.567.to_bddigit

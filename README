@@ -9,3 +9,4 @@ How to use:
          - 89.567.to_ld
          - Time.now.to_ld
          - Date.today.to_ld
+    4. I tested it on Rails 3.1 with ruby 1.9.2 on both Windows(7) and Linux(Ubunutu)
